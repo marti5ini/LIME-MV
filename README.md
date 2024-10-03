@@ -4,7 +4,7 @@
 
 This repository contains the code for the paper titled *Handling Missing Values in Local Post-Hoc Explainability*, an extension of post-hoc explainability approaches to managing missing values in decision-making processes with tabular data.
 
-Check out the paper here: [[pdf]([https://arxiv.org/pdf/2212.05256.pdf](https://link.springer.com/chapter/10.1007/978-3-031-44067-0_14))]
+Check out the paper here: [[pdf](https://link.springer.com/chapter/10.1007/978-3-031-44067-0_14)]
 
 ## Abstract
 
